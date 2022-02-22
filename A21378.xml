@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In camera Scaccarij. Maij 1608. Directions for commissioners with the steward of each mannour, aswell for admitting of tenants to copy hold estates, as for assessing of fines of the same. Resolued on by the right Honourable Robert Earle of Salisbury L. high Treasourer of England, Sir Iulius Cæsar Knight, Chancellour and vnder-Treasourer of his Maiesties Exchequer at West-minster, Sir Laurence Tanfield Knight, L. Chiefe Baron, and the rest of the barons there.</title>
+            <title>Directions for commissioners</title>
+            <author>England and Wales. Court of Exchequer.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1608</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21378</idno>
+            <idno type="STC">STC 7705</idno>
+            <idno type="STC">ESTC S121329</idno>
+            <idno type="EEBO-CITATION">99856513</idno>
+            <idno type="PROQUEST">99856513</idno>
+            <idno type="VID">22079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22079)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 784:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In camera Scaccarij. Maij 1608. Directions for commissioners with the steward of each mannour, aswell for admitting of tenants to copy hold estates, as for assessing of fines of the same. Resolued on by the right Honourable Robert Earle of Salisbury L. high Treasourer of England, Sir Iulius Cæsar Knight, Chancellour and vnder-Treasourer of his Maiesties Exchequer at West-minster, Sir Laurence Tanfield Knight, L. Chiefe Baron, and the rest of the barons there.</title>
+                  <title>Directions for commissioners</title>
+                  <author>England and Wales. Court of Exchequer.</author>
+                  <author>Salisbury, Robert Cecil, Earl of, 1563-1612.</author>
+               </titleStmt>
+               <extent>[4], 10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer ot the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1608.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank except for signature-mark "A" within a mortised ornament; the last leaf is blank.</note>
+                  <note>In this edition, line 8 of the title ends: Robert.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land tenure --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:22079:1"/>
+            <pb facs="tcp:22079:1" rendition="simple:additions"/>
+            <p>In Camera Scaccarij. Maij 1608.</p>
+            <p>DIRECTIONS for Commiſsioners, with the Steward of each Mannour, Aſwell for admitting of Tenants to Copy hold Eſtates, as for Aſſeſsing of Fines of the ſame.</p>
+            <p>Reſolued on by the right Honourable <hi>Robert</hi> Earle of Salisbury L. high Treaſourer of England, Sir <hi>Iulius Caeſar</hi> Knight, Chancellour and vnder-Trea<g ref="char:EOLhyphen"/>ſourer of his Maieſties Exchequer at Weſt<g ref="char:EOLhyphen"/>minſter, Sir <hi>Laurence Tanfield</hi> Knight, L. Chiefe Baron, and the reſt of the Barons there.</p>
+            <p>¶ IMPRINTED AT London by <hi>Robert Barker,</hi> Printer to the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Maieſtie. 1608.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:22079:2"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="1" facs="tcp:22079:2"/>
+            <head>¶ Directions for Commiſ<g ref="char:EOLhyphen"/>ſioners with the Steward of each <hi>Mannour, to admit Tenants to</hi> Copy-hold eſtates for Life or Liues, accor<g ref="char:EOLhyphen"/>ding to the Cuſtome of the Mannor: Reſolued on by the right Honourable ROBERT Earle of Salisburie L. high Treaſourer of England, Sir IVLIVS CAESAR Knight, Chancellour and vnder-Treaſourer of his Maieſties Exchequer at Weſtminſter, Sir LAVRENCE TANFIELD Knight, L. Chiefe Baron, and the reſt of the Barons there.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt the Commiſſion<g ref="char:EOLhyphen"/>ers and the Steward with all care and dili<g ref="char:EOLhyphen"/>gence to informe them<g ref="char:EOLhyphen"/>ſelues of all ſurrend<g ref="char:EOLhyphen"/>ers, forfeitures, and de<g ref="char:EOLhyphen"/>ceaſes of Tenants for terme of life or liues, and of the quanti<g ref="char:EOLhyphen"/>tie, qualitie, and true yeerely value of
+<pb n="2" facs="tcp:22079:3"/>each thing ſo ſurrendered, forfeited, or happened by deceaſe, which thereby are in caſe to be granted in poſſeſſion or reuerſion for life or liues, by Copie of Courtroll, according to the cuſtome of the Mannor.</p>
+            <p>Item, where by determination of ſuch eſtates the Copyholde is in his Maieſties hands, &amp; is harrietable, one Iuſtice of Peace, the Surueyor of the Countie, or in his abſence two Iuſtices of the Peace neereſt dwelling to the Mannor of and the Steward thereof, To aſſeſſe the fines at nine yeres true value of ech thing, the ancient Rent and yeerely va<g ref="char:EOLhyphen"/>lue of Cuſtome workes being repriſed. And thereupon to grant three liues, ac<g ref="char:EOLhyphen"/>cording to the Cuſtome of the Mannor; or if the Cuſtome beare but two liues, then at ſeuen yeeres true value, And where but one life, fiue yeeres value, and not vnder, repriſing <hi>vt ſupra.</hi>
+            </p>
+            <p>And where the land is not harriet<g ref="char:EOLhyphen"/>able
+<pb n="3" facs="tcp:22079:3"/>and ſo the leſſe charge to the Te<g ref="char:EOLhyphen"/>nant, which land may in that regard beare the greater Fine to his Maieſtie, To aſſeſſe the Fine for three liues at tenne yeeres true value, and for two liues in preſent poſſeſſion at eight yeres true value, And for one life in preſent poſſeſſion, if the Cuſtome will beare no more, at ſix yeeres profit, repriſing <hi>vt ſupra.</hi>
+            </p>
+            <p>And where there is only a widowes eſtate in Copyholde land being harri<g ref="char:EOLhyphen"/>etable, To contract with ſuch as deſire grant thereof by Copy for three liues after ſuch widowes eſtate for ſix yeeres true value of each thing, the ancient Rent and yeerely value of the workes being repriſed. But where it is not har<g ref="char:EOLhyphen"/>rietable, at ſeuen yeeres true value and not vnder.</p>
+            <p>And where the Cuſtome alloweth foure or fiue liues, (as in ſome fewe Mannors it doeth, or is ſo pretended) There to aduance the Fine for his
+<pb n="4" facs="tcp:22079:4"/>Maieſties profite accordingly.</p>
+            <p>And where there is but one life in Copie and poſſibilitie of a widowes e<g ref="char:EOLhyphen"/>ſtate, the Copyhold being harrietable, To contract for two liues in reuerſion at three yeeres profit, and not vnder (the rent and yeerely value of Cuſtome workes repriſed.) And where the Cu<g ref="char:EOLhyphen"/>ſtome alloweth no widowes eſtate, or the Copyholde is not harrietable, To aſſeſſe the Fine at foure yeeres of the true value, and not vnder.</p>
+            <p>And where there is two liues in Co<g ref="char:EOLhyphen"/>pyholde and poſſibilitie of widowes e<g ref="char:EOLhyphen"/>ſtates, being alſo harrietable, To con<g ref="char:EOLhyphen"/>tract for no further eſtate.</p>
+            <p>And where the preſent Tenants ha<g ref="char:EOLhyphen"/>uing three liues in Copie will ſurren<g ref="char:EOLhyphen"/>der by compoſition that three others may be ſtated in Copie, There for the exchange of the liues being of like age, to contract for one yeeres true value and not vnder. But where thoſe that
+<pb n="5" facs="tcp:22079:4"/>are to bee admitted, or any of them are younger then thoſe that were formerly in Copie, The Commiſſioners to ad<g ref="char:EOLhyphen"/>uance his Maieſties profit accordingly. And ſo for exchange of one, two, and three liues or more in reuerſion, the Commiſſioners to haue reſpectiue re<g ref="char:EOLhyphen"/>gard thereto.</p>
+            <p>Prouided, that the children and next of the kindred of each former Tenant haue heerein preferment, if willingly he or they will deſire to giue the Fines before mentioned.</p>
+            <p>Prouided alſo, that none of the ſayd Iuſtices of the Peace, Steward, nor Surueyor, to be heereafter appointed, be Copyhold Tenant of any the Man<g ref="char:EOLhyphen"/>nors whereof the Tenants are to be ſo admitted.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:22079:5"/>
+            <pb n="7" facs="tcp:22079:5"/>
+            <head>¶ Directions for Commiſ<g ref="char:EOLhyphen"/>ſioners with the Steward of each Mannour, to aſſeſſe Fines of Copy-holds wherein the Tenants haue eſtates of Inheri<g ref="char:EOLhyphen"/>tance, according to the Cuſtome of the Mannor: Reſolued on by the right Honourable ROBERT Earle of Salisburie L. high Treaſourer of Eng<g ref="char:EOLhyphen"/>land, Sir IVLIVS CaeSAR Knight, Chancellour and vnder-Treaſourer of his Maieſties Exchequer at Weſtminſter, Sir LAVRENCE TANFIELD Knight, L. Chiefe Baron, and the reſt of the Barons.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt the Commiſſion<g ref="char:EOLhyphen"/>ers and the Steward with all care and dili<g ref="char:EOLhyphen"/>gence to informe them<g ref="char:EOLhyphen"/>ſelues of all ſurren<g ref="char:EOLhyphen"/>ders, and Deſcents of Tenants not yet admitted, and of the quantitie, qualitie and true yeerely value of each thing ſo Surrendred or Deſcended, and whe<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:22079:6"/>by the true and ancient Cuſtome the Fine be arbitrable or certaine.</p>
+            <p>Item, where the land is harrietable, and the fine arditrable, The Steward with one Iuſtice of the Peace next dwelling to that Mannor, &amp; the Sur<g ref="char:EOLhyphen"/>ueyor of the Countie, or in his abſence two of the Iuſtices neereſt dwelling, to aſſeſſe the Fine vpon admittance at one yeere and a halfes profit, according to the true yeerely value, and not vn<g ref="char:EOLhyphen"/>der nor otherwiſe.</p>
+            <p>Item, where the land is not har<g ref="char:EOLhyphen"/>rietable, and the Fine arbitrable, to aſ<g ref="char:EOLhyphen"/>ſeſſe the Fine at two yeeres profit, ac<g ref="char:EOLhyphen"/>cording to the true yeerely value and not vnder.</p>
+            <p>Item, where the Fine is certaine, &amp; ſo to be prooued by the ancient Court Rols, <hi>tempore H. 7.</hi> and before, or by o<g ref="char:EOLhyphen"/>ther ſufficient matter of Record, there to admit the Tenants for ſuch Fine certaine.</p>
+            <p>
+               <pb n="9" facs="tcp:22079:6"/>
+Item, where the Fine is pretended certaine, and cannot bee ſo prooued to the Commiſſioners as aforeſayd, yet neuertheleſſe (in ſuch eaſe) to admit the tenants, and reſpect the aſſeſſing of the Fine vntill ſuch tenants haue at<g ref="char:EOLhyphen"/>tended the Kings learned Counſell, and ſatiſfied them therein, or that ſome further order ſhall be taken concerning the ſame: And for better notice and in<g ref="char:EOLhyphen"/>formation to bee giuen, the Steward &amp; Commiſſioners to certifie the State of ſuch queſtionable certainty or vncer<g ref="char:EOLhyphen"/>taintie of the Fines, to the Barons of the Eſchequer.</p>
+            <p>Item, the ſayd Commiſſioners and Steward to inquire with like care and diligence what harriets, reliefes, or o<g ref="char:EOLhyphen"/>ther matter of profit is due vnto his Maieſtie by ſurrender, alienation, or deceaſe of any the tenants (of ſuch Mannour) aſwell of Freeholde as Copyholde, as alſo of Leaſe lands, and to take ſuch order that his Maieſtie be duly and truly anſwered the ſaid fines,
+<pb n="10" facs="tcp:22079:7"/>harriets, reliefs, and other profits from time to time as they grow due.</p>
+            <p>The ſayd Commiſſioners &amp; Stew<g ref="char:EOLhyphen"/>ard to make true Certificate of their proceedings herein to the Chancellour and Councell, immediatly after euery Court, vnder their handes. And alſo like Certificate of all Copyhold lands that ſhall happen to eſcheat or other<g ref="char:EOLhyphen"/>wiſe come to his Maieſties hands, be<g ref="char:EOLhyphen"/>fore they grant them againe by Copie.</p>
+            <p>Prouided, that none of the ſayd Iu<g ref="char:EOLhyphen"/>ſtices of the Peace nor Surueyor be Copyhold tenant of any the Mannors whereof the tenants are to be ſo ad<g ref="char:EOLhyphen"/>mitted.</p>
+            <pb facs="tcp:22079:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
